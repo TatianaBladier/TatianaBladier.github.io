@@ -1,6 +1,7 @@
+---
 layout: page
-title: "publications"
+title: "Publications"
 permalink: /publications/
+---
 
-
-Content new 2
+Content
