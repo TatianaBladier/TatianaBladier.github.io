@@ -1,6 +1,6 @@
 layout: page
 title: "publications"
-permalink: /publications
+permalink: /publications/
 
 
 Content new 2
