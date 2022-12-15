@@ -3,4 +3,4 @@ title: "publications"
 permalink: /publications
 
 
-Content
+Content new
