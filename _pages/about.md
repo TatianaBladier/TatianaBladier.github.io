@@ -9,7 +9,6 @@ redirect_from:
 ---
 
 
-======
 I am a PhD Student  under supervision of Prof. Dr. Laura Kallmeyer and Prof. Dr. Wiebke Petersen at the University of Düsseldorf in Germany. In my dissertation project I develop a frame-semantic parser for French based on the framework of Tree-Adjoining-Grammars (TAG) and Neural TAG supertagging.
 
 My dissertation is part of the [TreeGraSP](https://treegrasp.phil.hhu.de) project.
