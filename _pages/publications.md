@@ -8,7 +8,7 @@ author_profile: true
 
 ## 2022
 
-- [RRGparbank: a Parallel Role and Reference Grammar Treebank]("http://www.lrec-conf.org/proceedings/lrec2022/pdf/2022.lrec-1.517.pdf")<br />
+- [RRGparbank: a Parallel Role and Reference Grammar Treebank](http://www.lrec-conf.org/proceedings/lrec2022/pdf/2022.lrec-1.517.pdf)<br />
 Tatiana Bladier, Kilian Evang, Valeria Generalova, Laura Kallmeyer, Robin Möllemann, Natalia Moors, Rainer Oswald, Simon Petitjean <br />
 Proceedings of [LREC 2022](https://lrec2022.lrec-conf.org/en/)<br />
 - [Improving Low-resource RRG Parsing with Cross-lingual Self-training](https://aclanthology.org/2022.coling-1.384/)<br />
@@ -18,27 +18,40 @@ Proceedings of [COLING 2022](https://coling2022.org/) (long paper)
 
 ## 2021
 
-- [Improving DRS Parsing with Separately Predicted Semantic Roles]("https://aclanthology.org/2021.cstfrs-1.3/") <br />
+- [Improving DRS Parsing with Separately Predicted Semantic Roles](https://aclanthology.org/2021.cstfrs-1.3/) <br />
 Tatiana Bladier, Gosse Minnema, Rik van Noord, Kilian Evang <br />
 Proceedings of [CSTFRS](https://sites.google.com/view/cstfrs-2021/?pli=1) <br />
-- [Bootstrapping Role and Reference Grammar Treebanks via Universal Dependencies]("https://aclanthology.org/2021.udw-1.3.pdf")  <br />
+- [Bootstrapping Role and Reference Grammar Treebanks via Universal Dependencies](https://aclanthology.org/2021.udw-1.3.pdf)  <br />
 Kilian Evang, Tatiana Bladier, Laura Kallmeyer and Simon Petitjean <br />
-Proceedings of Universal Dependencies Workshop [UDW 2021]("https://universaldependencies.org/udw21/") (long paper)
+Proceedings of Universal Dependencies Workshop [UDW 2021](https://universaldependencies.org/udw21/) (long paper)
 
 ## 2020
 
-- Tatiana Bladier, Laura Kallmeyer, Rainer Osswald, Jakub Waszczuk (2020):  Automatic Extraction of Tree-Wrapping Grammars for Multiple Languages.&nbsp; Proceedings of the 19th International Workshop on Treebanks and Linguistic Theories. ("https://www.aclweb.org/anthology/2020.tlt-1.5.pdf")("https://user.phil.hhu.de/bladier/wp-content/uploads/sites/59/2020/11/TLT_2020_Presentation.pdf")slides)
-- Tatiana Bladier, Jakub Waszczuk, and Laura Kallmeyer (2020): Statistical Parsing of Tree Wrapping Grammars. In: Proceedings of the 28th International Conference on Computational Linguistics. ACL Anthology. ("https://aclanthology.org/2020.coling-main.595.pdf")
+- [Automatic Extraction of Tree-Wrapping Grammars for Multiple Languages](https://www.aclweb.org/anthology/2020.tlt-1.5.pdf)  <br />
+Tatiana Bladier, Laura Kallmeyer, Rainer Osswald, Jakub Waszczuk <br />
+ Proceedings of the 19th International Workshop on Treebanks and Linguistic Theories [TLT 2020](https://tlt2020.phil.hhu.de/)
+
+- [Statistical Parsing of Tree Wrapping Grammars](https://aclanthology.org/2020.coling-main.595.pdf) <br />
+Tatiana Bladier, Jakub Waszczuk, and Laura Kallmeyer <br />
+Proceedings of the 28th International Conference on Computational Linguistics [COLING 2020](https://coling2020.org/)
 
 ## 2019
 
-- Tatiana Bladier, Jakub Waszczuk, Laura Kallmeyer, and Jörg Hendrik Janke (2019):  From partial neural graph-based LTAG parsing towards full parsing.&nbsp; CLIN Journal (9) 2019. ("https://clinjournal.org/clinj/article/view/90/81")
+- [From partial neural graph-based LTAG parsing towards full parsing](https://clinjournal.org/clinj/article/view/90/81)  <br />
+Tatiana Bladier, Jakub Waszczuk, Laura Kallmeyer, and Jörg Hendrik Janke   <br />
+Computational Linguistics in the Netherlands Journal[CLIN (9)](https://www.clinjournal.org/clinj)  (journal publication)
 
 ## 2018
 
-- Tatiana Bladier, Andreas van Cranenburgh, Kilian Evang, Laura Kallmeyer, Robin Möllemann, and Rainer Osswald (2018):  RRGbank: a Role and Reference Grammar Corpus of Syntactic Structures Extracted from the Penn Treebank.&nbsp; 17th International Workshop on Treebanks and Linguistic Theory (TLT) 2018. Oslo, Norway. ("http://www.ep.liu.se/ecp/155/003/ecp18155003.pdf")
-- Tatiana Bladier, Andreas van Cranenburgh, Younes Samih, Laura Kallmeyer (2018): German and French Neural Supertagging Experiments for LTAG Parsing. ACL 2018 Student Research Workshop, Melbourne, Australia. ("http://aclweb.org/anthology/P18-3009")
-- Tatiana Bladier, Esther Seyffarth, Oliver Hellwig, Wiebke Petersen (2018): AET: Web-based Adjective Exploration Tool for German. LREC 2018, Miyazaki, Japan. ("http://www.lrec-conf.org/proceedings/lrec2018/pdf/194.pdf")
+- [RRGbank: a Role and Reference Grammar Corpus of Syntactic Structures Extracted from the Penn Treebank](http://www.ep.liu.se/ecp/155/003/ecp18155003.pdf")  <br />
+Tatiana Bladier, Andreas van Cranenburgh, Kilian Evang, Laura Kallmeyer, Robin Möllemann, and Rainer Osswald <br />
+Proceedings of the 17th International Workshop on Treebanks and Linguistic Theory [TLT 17](https://www.uio.no/english/research/news-and-events/events/conferences/tlt17/)
+- [German and French Neural Supertagging Experiments for LTAG Parsing](http://aclweb.org/anthology/P18-3009) <br />
+Tatiana Bladier, Andreas van Cranenburgh, Younes Samih, Laura Kallmeyer <br />
+[ACL 2018](https://acl2018.org/) Student Research Workshop
+- [AET: Web-based Adjective Exploration Tool for German](http://www.lrec-conf.org/proceedings/lrec2018/pdf/194.pdf) <br />
+Tatiana Bladier, Esther Seyffarth, Oliver Hellwig, Wiebke Petersen <br />
+Proceedings of [LREC 2018](http://lrec2018.lrec-conf.org/en/)
 
 
 # Invited talks
