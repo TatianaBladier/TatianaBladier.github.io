@@ -11,9 +11,9 @@ title                    : "Tatiana Bladier / Computational Linguist"
 title_separator          : "-"
 name                     : &name "Tatiana Bladier"
 description              : &description ""
-url                      : https://taniabladier.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://tatianabladier.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "taniabladier.github.io" #academicpages
+repository               : "tatianabladier.github.io" #academicpages
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
