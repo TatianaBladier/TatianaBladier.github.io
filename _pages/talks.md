@@ -6,9 +6,9 @@ author_profile: true
 ---
 
 
-# Invited talks
+## Invited talks
 
-## 2019
+### 2019
 
 - [Neural Semantic Role Labeling for French with LTAG Supertag Features]()<br />
 Research Seminar at the Paris Diderot University, Paris, France <br />
@@ -17,15 +17,15 @@ Research Seminar at the Paris Diderot University, Paris, France <br />
  - [Neural Semantic Role Labeling for French FrameNet With Deep Syntactic Information]() <br />
  Inria research centre Paris, France.
 
-# Further Posters and Talks
+## Further Posters and Talks
 
-## 2021
+### 2021
 
 - [Elementary trees in RRGparbank](https://rrg2021.apps01.yorku.ca/wp-content/uploads/2021/06/rrg_abstract_arps_et_al_rrg_parbank.pdf) <br />
 David Arps, Tatiana Bladier, Kilian Evang, Laura Kallmeyer, Robin Möllemann, Rainer Osswald, Simon Petitjean<br />
 Abstract presented at The 16th International Conference on Role and Reference Grammar, Toronto, Canada.
 
-## 2020
+### 2020
 
 - [Automatic Extraction of Tree-Wrapping Grammars for German](https://aclanthology.org/2020.tlt-1.5.pdf) <br />
 Tatiana Bladier, Laura Kallmeyer <br />
@@ -34,7 +34,7 @@ Tatiana Bladier, Laura Kallmeyer <br />
 Tatiana Bladier, Marie Candito
 [Computational Linguistics in the Netherlands CLIN30, Utrecht, the Netherlands](https://clin30.sites.uu.nl/accepted-submissions/) 
 
-## 2019
+### 2019
 
 - [Creating RRG treebanks through semi-automatic conversion of annotated corpora](https://ubwp.buffalo.edu/rrg2019/wp-content/uploads/sites/101/2019/07/Bladier.pdf) <br />
 Tatiana Bladier, Kilian Evang, Laura Kallmeyer, Robin Möllemann, and Rainer Osswald<br />
@@ -46,7 +46,7 @@ Tatiana Bladier, David Arps and Laura Kallmeyer
 Tatiana Bladier, Jakub Waszczuk, Jörg Hendrik Janke, and Laura Kallmeyer 
 [Computational Linguistics in the Netherlands CLIN29](http://www.let.rug.nl/clin29/index.php), Groningen, the Netherlands. 
 
-## 2018
+### 2018
 
 - [Extraction of LTAG-based supertags from the French Treebank: challenges and possible solutions](http://drehu.linguist.univ-paris-diderot.fr/gac-2018/abstracts/bladier_etal.pdf) <br />
  Tatiana Bladier, Andreas van Cranenburgh and Laura Kallmeyer 
@@ -71,18 +71,8 @@ Tatiana Bladier, Andreas van Cranenburgh <br />
 Tatiana Bladier, Kilian Evang and Yulia Zinova <br />
 DGfS 2018, Stuttgart, Germany
 
-## 2017
+### 2017
 
 - [Aspecto-temporal Representation of Slavic Aktionsarten in DRT with Boxer](https://lenls.github.io/lenls14/index.html) <br />
 Tatiana Bladier, Kilian Evang, Yulia Zinova <br />
 Logic and Engineering of Natural Language Semantics [LENLS-14](https://lenls.github.io/lenls14/index.html)
-
-# Reviewing 
-## 2019, 2020, 2021, 2022
-
-move to further activities
-
-- Computer Speech &amp; Language Journal.
-- Language Resources and Evaluation Journal.
-- ACL 2020 student research workshop.
-- LREC 2020 conference.
