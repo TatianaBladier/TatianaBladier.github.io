@@ -55,8 +55,16 @@ Proceedings of [LREC 2018](http://lrec2018.lrec-conf.org/en/)
 
 ## 2016
 
-Bachelor thesis
+Bachelor thesis <br />
+**A Discourse Representation Theory based analysis of the Russian perfective aspect**
 
 ## 2013 
 
-Master thesis
+Master thesis <br />
+**Syntactic Strategies of Explication in Russian-German Literary Translations<br />**
+(in German: Syntaktische Strategien der Explizitierung in der russisch-deutschen literarischen Übersetzung)
+
+## 2008
+
+Bachelor thesis<br />
+**Pejorative shifts in the evaluative component of word meaning<br />**
