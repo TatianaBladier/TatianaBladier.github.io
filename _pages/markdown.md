@@ -4,6 +4,7 @@ title: "Teaching"
 author_profile: true
 ---
 
+## Seminars
 
 - Fall 2022: **Discourse Representations** (with Dr. Kata Balogh, University of Düsseldorf)
 - Spring 2022: **Advanced NLP with Python** (with Dr. Kilian Evang, University of Düsseldorf)
