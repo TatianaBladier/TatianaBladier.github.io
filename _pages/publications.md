@@ -39,7 +39,7 @@ Proceedings of the 28th International Conference on Computational Linguistics [C
 
 - [From partial neural graph-based LTAG parsing towards full parsing](https://clinjournal.org/clinj/article/view/90/81)  <br />
 Tatiana Bladier, Jakub Waszczuk, Laura Kallmeyer, and Jörg Hendrik Janke   <br />
-Computational Linguistics in the Netherlands Journal[CLIN (9)](https://www.clinjournal.org/clinj)  (journal publication)
+Computational Linguistics in the Netherlands Journal [CLIN (9)](https://www.clinjournal.org/clinj)  (journal publication)
 
 ## 2018
 
