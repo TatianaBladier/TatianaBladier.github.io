@@ -13,7 +13,7 @@ Tatiana Bladier, Kilian Evang, Valeria Generalova, Laura Kallmeyer, Robin Mölle
 Proceedings of [LREC 2022](https://lrec2022.lrec-conf.org/en/)<br />
 - [Improving Low-resource RRG Parsing with Cross-lingual Self-training](https://aclanthology.org/2022.coling-1.384/)<br />
 Kilian Evang, Laura Kallmeyer, Jakub Waszczuk, Kilu von Prince, Tatiana Bladier, Simon Petitjean <br /> 
-Proceedings of [COLING 2022](https://coling2022.org/) (long paper)
+Proceedings of [COLING 2022](https://coling2022.org/) (long paper) <br />
 <span class="badge badge-award">Grand Challenge Naver / Line Award of COLING 2022</span>
 
 ## 2021
