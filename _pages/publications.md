@@ -55,7 +55,7 @@ Proceedings of [LREC 2018](http://lrec2018.lrec-conf.org/en/)
 
 ## 2016
 
-**[A Discourse Representation Theory based analysis of the Russian perfective aspect](<a href="tatianabladier.github.io/files/Bladier_BA_thesis_DRT_Russian_Aspect.pdf" target="_blank">PDF.</a>)**<br />
+**[A Discourse Representation Theory based analysis of the Russian perfective aspect](https://tatianabladier.github.io/files/Bladier_BA_thesis_DRT_Russian_Aspect.pdf)**<br />
 Bachelor's thesis, Heinrich Heine University Düsseldorf, Germany
 
 ## 2013 
