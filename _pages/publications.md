@@ -9,7 +9,7 @@ author_profile: true
 
 - [Data-Driven Frame-Semantic Parsing with Tree Wrapping Grammar](https://ultv.univ-lorraine.fr/video/15210-017-tatiana-bladier-data-driven-frame-semantic-parsing-with-tree-wrapping-grammar/)<br />
 <b>Tatiana Bladier</b>, Laura Kallmeyer, Kilian Evang <br />
-Proceedings of International Conference on Computational Semantics 2023 [IWCS 2023]()(long paper)<br />
+Proceedings of International Conference on Computational Semantics 2023 [IWCS 2023](https://iwcs2023.loria.fr/) (long paper)<br />
 
 ## 2022
 
