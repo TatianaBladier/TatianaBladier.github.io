@@ -19,6 +19,12 @@ Research Seminar at the Paris Diderot University, Paris, France <br />
 
 ## Further Posters and Talks
 
+### 2023
+
+- [Annotating Semantic Frames in RRGparbank](https://rrg2021.apps01.yorku.ca/wp-content/uploads/2021/06/rrg_abstract_arps_et_al_rrg_parbank.pdf) <br />
+David Arps, Tatiana Bladier, Kilian Evang, Laura Kallmeyer, Robin Möllemann, Rainer Osswald, Simon Petitjean<br />
+Abstract presented at The 17th International Conference on Role and Reference Grammar, Toronto, Canada.
+
 ### 2021
 
 - [Elementary trees in RRGparbank](https://rrg2021.apps01.yorku.ca/wp-content/uploads/2021/06/rrg_abstract_arps_et_al_rrg_parbank.pdf) <br />
