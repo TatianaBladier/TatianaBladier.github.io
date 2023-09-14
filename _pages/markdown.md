@@ -6,6 +6,7 @@ author_profile: true
 
 ## Seminars
 
+- Fall 2023: **Discourse Representations** (with Dr. Kata Balogh, University of Düsseldorf)
 - Fall 2022: **Discourse Representations** (with Dr. Kata Balogh, University of Düsseldorf)
 - Spring 2022: **Advanced NLP with Python** (with Dr. Kilian Evang, University of Düsseldorf)
 - Spring 2021: **Advanced NLP with Python** (with Esther Seyffarth and Dr. Rainer Osswald, University of Düsseldorf)
