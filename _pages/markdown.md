@@ -16,7 +16,7 @@ author_profile: true
 - Spring 2018: **[Parsing Beyond CFG](https://user.phil.hhu.de/kallmeyer/teaching/parsing-beyond-cfg-sommer-2018/)** (with Prof. Dr. Laura Kallmeyer, University of Düsseldorf)
 - Fall 2017: **Discourse Representation Theory** (with Dr. Kata Balogh, University of Düsseldorf)
 
-## Thesis supervision 
+## Thesis and internship supervision 
 
 - Sommer 2023: Internship supervision (co-supervisor) with the topic **"Annotation of semantic roles in French subcorpus of RRGparbank"**, intern: Alena Fee Johnen.
 - Fall 2022: Internship supervision (co-supervisor) with the topic **"Annotation of semantic roles in Russian subcorpus of RRGparbank"**, intern: Anastasia Yablokova.
