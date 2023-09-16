@@ -20,11 +20,20 @@ Education
 
 Work experience
 ======
-* 
-  * 
+* 06/2017 – 03/2024 Research Associate
+  * University of Düsseldorf, Department for Computational Linguistics
 
-* 
-  * 
+* 05/2013 – 09/2017 Research Assistant
+  * Fraunhofer Institute for Environmental, Safety, and Energy Technology
+
+* 12/2011 – 09/2012 Customer care service and public relation assistant
+  * International debt collection service company “Creditreform”, Germany
+  
+* 10/2010 – 10/2011 Journalist (online and radio), Russian Department
+  * International Broadcasting Company “Deutsche Welle”, Bonn, Germany
+  
+* 10/2009 – 06/2010 Teacher of Russian
+  * Dresden High School, Germany
   
 Skills
 ======
