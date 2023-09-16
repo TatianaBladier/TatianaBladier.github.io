@@ -23,6 +23,6 @@ author_profile: true
 - Spring 2021 (first supervisor): Bachelor thesis **"Transformers-based Supertagging Model for Statistical Parsing of Tree Wrapping Grammars"**, student: Svetlana Schmidt
 - Spring 2020 (co-supervisor): Bachelor thesis **"Architecture Evaluation for Performance Optimization of a Web-Based, Database-Supported Language Analysis Tool"**, student: Caner Türkmen .
 - Spring 2020: Internship supervision (co-supervisor) with the topic **"Usage of MySQL-databases in linguistics"**, intern: Ekaterina Gabrovska.
-- Fall 2019 (second supervisor): Bachelor thesis **"Defective verbal paradigms in Spanish – A case study on ‘abolir'"**, Jannis Jakobs. 
+- Fall 2019 (second supervisor): Bachelor thesis **"Defective verbal paradigms in Spanish – A case study on ‘abolir'"**, student: Jannis Jakobs. 
 - Summer 2019 (first supervisor): Bachelor thesis **"Transition-based AMR parsing with supertags"**, student: Jule Pohlmann.
 - Fall 2018 (co-supervisor): Bachelor thesis **"Dependency Parsing for Lexicalized Tree Adjoining Grammars based on Supertags and Neural Networks"**, student: Jörg Hendrik Janke.
