@@ -21,9 +21,15 @@ Research Seminar at the Paris Diderot University, Paris, France <br />
 
 ### 2023
 
-- [Annotating Semantic Frames in RRGparbank](https://rrg2021.apps01.yorku.ca/wp-content/uploads/2021/06/rrg_abstract_arps_et_al_rrg_parbank.pdf) <br />
-David Arps, Tatiana Bladier, Kilian Evang, Laura Kallmeyer, Robin Möllemann, Rainer Osswald, Simon Petitjean<br />
-Abstract presented at The 17th International Conference on Role and Reference Grammar, Toronto, Canada.
+- [Annotating Semantic Frames in RRGparbank](https://rrg2023.phil.hhu.de/wp-content/uploads/2023/07/RRG2023-Bladier_Evang_Kallmeyer.pdf) <br />
+Tatiana Bladier, <b>Kilian Evang</b>, Laura Kallmeyer <br />
+Abstract presented at The 19th International Conference on Role and Reference Grammar, Toronto, Canada.
+
+### 2022
+
+- [Cross-lingual RRG Parsing] <br />
+Kilian Evang, <b>Laura Kallmeyer</b>, Jakub Waszczuk, Kilu von Prince, Tatiana Bladier, Simon Petitjean <br />
+Séminaire Almanach, INRIA, Paris, 17.06.2022 
 
 ### 2021
 
