@@ -28,7 +28,11 @@ Work experience
   
 Skills
 ======
+* Languages
+  * Russian (mother tongue), German (fluent), English (fluent), French (good)
 
+* IT & Software
+  * Python, MySQL, Flask, HTML/CSS, Keras, TensorFlow, Prolog, Ontology editor Protégé.
   
 Service and leadership
 ======
