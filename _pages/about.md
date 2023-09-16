@@ -11,7 +11,7 @@ redirect_from:
 
 I am a PhD Student  under supervision of [Prof. Dr. Laura Kallmeyer](https://user.phil.hhu.de/kallmeyer/) and [Prof. Dr. Wiebke Petersen](https://user.phil.hhu.de/~petersen/) at the University of Düsseldorf in Germany. In my dissertation project I develop a frame-semantic parser for English, French, German, and Russian based on Tree Rewriting Grammars and neural supertagging.
 
-My dissertation is part of the [TreeGraSP](https://treegrasp.phil.hhu.de) project.
+My dissertation is part of the [TreeGraSP](https://treegrasp.phil.hhu.de) project at the University of Düsseldorf, Germany.
 
 My research interests include
 ------
