@@ -23,7 +23,7 @@ Research Seminar at the Paris Diderot University, Paris, France <br />
 
 - [Annotating Semantic Frames in RRGparbank](https://rrg2023.phil.hhu.de/wp-content/uploads/2023/07/RRG2023-Bladier_Evang_Kallmeyer.pdf) <br />
 Tatiana Bladier, <b>Kilian Evang</b>, Laura Kallmeyer <br />
-Abstract presented at The 19th International Conference on Role and Reference Grammar, Toronto, Canada.
+Abstract presented at The 17th International Conference on Role and Reference Grammar, Düsseldorf, Germany.
 
 ### 2022
 

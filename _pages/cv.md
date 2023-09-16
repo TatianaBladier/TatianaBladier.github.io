@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+**[[pdf] Tatiana Bladier Curriculum Vitae](https://tatianabladier.github.io/files/Bladier_CV_long_academic.pdf)**<br />
+
 Education
 ======
 * 
