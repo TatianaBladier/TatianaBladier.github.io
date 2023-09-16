@@ -25,7 +25,7 @@ Proceedings of [COLING 2022](https://coling2022.org/) (long paper) <br />
 
 - [Improving DRS Parsing with Separately Predicted Semantic Roles](https://aclanthology.org/2021.cstfrs-1.3/) <br />
 <b>Tatiana Bladier</b>, Gosse Minnema, Rik van Noord, Kilian Evang <br />
-Proceedings of [CSTFRS](https://sites.google.com/view/cstfrs-2021/?pli=1) <br />
+Proceedings of Computing Semantics with Types, Frames and Related Structures Workshop [CSTFRS 2021](https://sites.google.com/view/cstfrs-2021/?pli=1) <br />
 - [Bootstrapping Role and Reference Grammar Treebanks via Universal Dependencies](https://aclanthology.org/2021.udw-1.3.pdf)  <br />
 Kilian Evang, <b>Tatiana Bladier</b>, Laura Kallmeyer and Simon Petitjean <br />
 Proceedings of Universal Dependencies Workshop [UDW 2021](https://universaldependencies.org/udw21/) (long paper)
