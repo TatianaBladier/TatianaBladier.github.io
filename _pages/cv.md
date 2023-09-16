@@ -13,7 +13,10 @@ redirect_from:
 
 Education
 ======
-* 
+
+* 2016 B.A. in Information Science and Language Technology, University of Düsseldorf, Germany
+* 2013 M.A. in German Studies, University of Düsseldorf, Germany
+* 2009 B.A. in German Studies, Southern Federal University Rostov on Don, Russia
 
 Work experience
 ======
