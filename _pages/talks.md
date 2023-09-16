@@ -65,8 +65,8 @@ TreeGraSP Workshop #6, Düsseldorf, Germany
 Tatiana Bladier, Laura Kallmeyer <br />
 [Grammar and Corpora GAC 2020](https://gac2020.ijp.pan.pl/), Kraków, Poland
 - [Neural Semantic Role Labeling Using Deep Syntax for French FrameNet](https://clin30.sites.uu.nl/accepted-submissions) <br />
-Tatiana Bladier, Marie Candito
-- [Computational Linguistics in the Netherlands CLIN30, Utrecht, the Netherlands](https://clin30.sites.uu.nl/accepted-submissions/) 
+Tatiana Bladier, Marie Candito <br />
+[Computational Linguistics in the Netherlands CLIN30, Utrecht, the Netherlands](https://clin30.sites.uu.nl/accepted-submissions/) 
 - [Automatic extraction of Tree Wrapping Grammars from discontinuous constituent treebanks](https://treegrasp.phil.hhu.de/wp-content/uploads/2021/01/meeting_5_extraction.pdf) <br />
 Tatiana Bladier, Laura Kallmeyer, Rainer Osswald, Jakub Waszczuk <br />
 TreeGraSP Workshop #5, Düsseldorf, Germany 
