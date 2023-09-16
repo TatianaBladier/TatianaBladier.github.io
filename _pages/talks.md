@@ -27,15 +27,37 @@ Abstract presented at The 19th International Conference on Role and Reference Gr
 
 ### 2022
 
-- [Cross-lingual RRG Parsing] <br />
+- [Cross-lingual RRG Parsing]() <br />
 Kilian Evang, <b>Laura Kallmeyer</b>, Jakub Waszczuk, Kilu von Prince, Tatiana Bladier, Simon Petitjean <br />
 Séminaire Almanach, INRIA, Paris, 17.06.2022 
+
+- [Towards Broad-coverage Semantic Parsing for Role and Reference Grammar]() <br />
+Tatiana Bladier <br />
+[TreeGraSP Workshop #8](https://treegrasp.phil.hhu.de/events/treegrasp-meeting-8/), Düsseldorf, Germany 
+
+- [Bootstrapping Role and Reference Grammar Treebanks via Universal Dependencies](https://treegrasp.phil.hhu.de/wp-content/uploads/2022/02/meeting_7_bootstrapping_role_and_reference_grammar_treebanks_via_universal_dependencies.pdf) <br />
+Tatiana Bladier, Kilian Evang, Laura Kallmeyer, Simon Petitjean <br />
+[TreeGraSP Workshop #7](https://treegrasp.phil.hhu.de/events/treegrasp-meeting-7/), Düsseldorf, Germany 
+
+- [Semantic role annotations for RRGparbank](https://treegrasp.phil.hhu.de/wp-content/uploads/2022/02/meeting_7_semantic_role_annotation_for_rrgbank.pdf) <br />
+Tatiana Bladier, Kilian Evang, Laura Kallmeyer <br />
+[TreeGraSP Workshop #7](https://treegrasp.phil.hhu.de/events/treegrasp-meeting-7/), Düsseldorf, Germany 
+
+- [RRG-based semantic frame parsing](https://treegrasp.phil.hhu.de/wp-content/uploads/2022/02/meeting_7_RRG_based_semantic_frame_parsing.pdf) <br />
+Tatiana Bladier, Kilian Evang, Laura Kallmeyer <br />
+[TreeGraSP Workshop #7](https://treegrasp.phil.hhu.de/events/treegrasp-meeting-7/), Düsseldorf, Germany 
+
 
 ### 2021
 
 - [Elementary trees in RRGparbank](https://rrg2021.apps01.yorku.ca/wp-content/uploads/2021/06/rrg_abstract_arps_et_al_rrg_parbank.pdf) <br />
 David Arps, Tatiana Bladier, Kilian Evang, Laura Kallmeyer, Robin Möllemann, Rainer Osswald, Simon Petitjean<br />
 Abstract presented at The 16th International Conference on Role and Reference Grammar, Toronto, Canada.
+
+- [Using predicted semantic roles for DRS parsing](https://treegrasp.phil.hhu.de/wp-content/uploads/2022/02/meeting_6_using_predicted_semantic_role_for_drs_parsing.pdf) <br />
+Tatiana Bladier, Gosse Minnema, Rik van Noord, Kilian Evang <br />
+[TreeGraSP Workshop #6](https://treegrasp.phil.hhu.de/events/treegrasp-meeting-6/), Düsseldorf, Germany 
+
 
 ### 2020
 
@@ -44,7 +66,18 @@ Tatiana Bladier, Laura Kallmeyer <br />
 [Grammar and Corpora GAC 2020](https://gac2020.ijp.pan.pl/), Kraków, Poland
 - [Neural Semantic Role Labeling Using Deep Syntax for French FrameNet](https://clin30.sites.uu.nl/accepted-submissions) <br />
 Tatiana Bladier, Marie Candito
-[Computational Linguistics in the Netherlands CLIN30, Utrecht, the Netherlands](https://clin30.sites.uu.nl/accepted-submissions/) 
+- [Computational Linguistics in the Netherlands CLIN30, Utrecht, the Netherlands](https://clin30.sites.uu.nl/accepted-submissions/) 
+- [Automatic extraction of Tree Wrapping Grammars from discontinuous constituent treebanks](https://treegrasp.phil.hhu.de/wp-content/uploads/2021/01/meeting_5_extraction.pdf) <br />
+Tatiana Bladier, Laura Kallmeyer, Rainer Osswald, Jakub Waszczuk <br />
+[TreeGraSP Workshop #5](https://treegrasp.phil.hhu.de/events/treegrasp-meeting-5/), Düsseldorf, Germany 
+- [Neural supertag-based parsing for Tree Wrapping Grammars](https://treegrasp.phil.hhu.de/wp-content/uploads/2021/01/meeting_5_parsing.pdf) <br />
+Tatiana Bladier, Laura Kallmeyer, Jakub Waszczuk <br />
+[TreeGraSP Workshop #5](https://treegrasp.phil.hhu.de/events/treegrasp-meeting-5/), Düsseldorf, Germany 
+- [Towards Grammar Extraction and Probabilistic Parsing for Tree Wrapping Grammar](https://treegrasp.phil.hhu.de/wp-content/uploads/2020/02/meeting_4_TWG_Parsing.pdf) <br />
+David Arps, Tatiana Bladier, Jakub Waszczuk<br />
+[TreeGraSP Workshop #4](https://treegrasp.phil.hhu.de/events/treegrasp-meeting-4/), Düsseldorf, Germany
+
+
 
 ### 2019
 
@@ -57,6 +90,15 @@ Tatiana Bladier, David Arps and Laura Kallmeyer
 - [From partial neural graph-based LTAG parsing towards full parsing](http://www.let.rug.nl/clin29/Tatiana_Bladier_J%C3%B6rg_Hendrik_Janke_Jakub_Waszczuk_Laura_Kallmeyer.php)
 Tatiana Bladier, Jakub Waszczuk, Jörg Hendrik Janke, and Laura Kallmeyer 
 [Computational Linguistics in the Netherlands CLIN29](http://www.let.rug.nl/clin29/index.php), Groningen, the Netherlands. 
+- [Chart-based RRG parsing using automatically extracted RRG grammar with features](https://treegrasp.phil.hhu.de/wp-content/uploads/2019/05/meeting_3_RRG_Parsing.pdf) <br />
+David Arps, Laura Kallmeyer, Tatiana Bladier <br />
+[TreeGraSP Workshop #3](https://treegrasp.phil.hhu.de/events/treegrasp-meeting-3/), Düsseldorf, Germany 
+- [Full neural TAG parsing for French, English, and German LTAGs](https://treegrasp.phil.hhu.de/wp-content/uploads/2019/05/meeting_3_Neural_Partage.pdf) <br />
+Tatiana Bladier, Jakub Waszczuk <br />
+[TreeGraSP Workshop #3](https://treegrasp.phil.hhu.de/events/treegrasp-meeting-3/), Düsseldorf, Germany 
+- [En effet: Towards Neural Semantic Role Labeling with French LTAG for the Causation frame](https://treegrasp.phil.hhu.de/wp-content/uploads/2019/05/meeting_3_SRL.pdf) <br />
+Tatiana Bladier <br />
+[TreeGraSP Workshop #3](https://treegrasp.phil.hhu.de/events/treegrasp-meeting-3/), Düsseldorf, Germany 
 
 ### 2018
 
@@ -68,17 +110,17 @@ Tatiana Bladier, Andreas van Cranenburgh, Kilian Evang, Laura Kallmeyer, Robin M
 Grammar and Corpora (GAC) 2018. Paris, France 
 - [From Penn Treebank to RRGbank: Creating the first large Role and Reference Grammar Resource]() <br />
 Tatiana Bladier, Robin Möllemann and Kilian Evang<br />
-[TreeGraSP Workshop](https://treegrasp.phil.hhu.de/events/treegrasp-meeting-2/), Düsseldorf, Germany 
+[TreeGraSP Workshop #2](https://treegrasp.phil.hhu.de/events/treegrasp-meeting-2/), Düsseldorf, Germany 
 - [On TAG Parsing as Dependency Parsing, or Neural almost Parsing with French LTAGs](https://treegrasp.phil.hhu.de/events/treegrasp-meeting-2/) <br />
 Jörg Hendrik Janke, and Laura Kallmeyer <br />
-[TreeGraSP Workshop](https://treegrasp.phil.hhu.de/wp-content/uploads/2018/09/meeting_2-tag-parsing.pdf), Düsseldorf, Germany
+[TreeGraSP Workshop #2](https://treegrasp.phil.hhu.de/wp-content/uploads/2018/09/meeting_2-tag-parsing.pdf), Düsseldorf, Germany
 
 - [Frame-semantic parsing for French with LTAG supertagging]()<br />
 Tatiana Bladier <br />
 NASSLLI 2018 Student Session, Pittsburgh, USA.
 - [Bi-LSTM TAG Supertagging for French and German](https://treegrasp.phil.hhu.de/events/treegrasp-meeting-1/)<br />
 Tatiana Bladier, Andreas van Cranenburgh <br />
-[TreeGraSP Workshop](https://treegrasp.phil.hhu.de/wp-content/uploads/2018/02/supertagging.pdf), Düsseldorf, Germany
+[TreeGraSP Workshop #1](https://treegrasp.phil.hhu.de/wp-content/uploads/2018/02/supertagging.pdf), Düsseldorf, Germany
 - [Representing Slavic Aktionsarten in DRT with Boxer](https://www.dgfs2018.uni-stuttgart.de/programm/postersession/programm-cl-postersession/2018_dgfs-cl-poster-bladier-etal.pdf) <br />
 Tatiana Bladier, Kilian Evang and Yulia Zinova <br />
 DGfS 2018, Stuttgart, Germany
