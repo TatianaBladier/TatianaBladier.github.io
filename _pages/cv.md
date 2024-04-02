@@ -20,7 +20,7 @@ Education
 
 Work experience
 ======
-* 06/2017 – 03/2024 Research Associate
+* 06/2017 – 08/2024 Research Associate
   * University of Düsseldorf, Department for Computational Linguistics
 
 * 05/2013 – 09/2017 Research Assistant
