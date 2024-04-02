@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.5.31)  16 SEP 2023 22:10
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.3.18)  2 APR 2024 18:15
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -502,7 +502,7 @@ Overfull \hbox (0.6652pt too wide) in paragraph at lines 290--298
 Here is how much of TeX's memory you used:
  4051 strings out of 478287
  63199 string characters out of 5849289
- 400191 words of memory out of 5000000
+ 400197 words of memory out of 5000000
  22240 multiletter control sequences out of 15000+600000
  473911 words of font info for 43 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -512,7 +512,7 @@ Here is how much of TeX's memory you used:
 ic/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/ams
 fonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/c
 m/cmti10.pfb>
-Output written on Bladier_CV_long_academic.pdf (5 pages, 96027 bytes).
+Output written on Bladier_CV_long_academic.pdf (5 pages, 96037 bytes).
 PDF statistics:
  40 PDF objects out of 1000 (max. 8388607)
  24 compressed objects within 1 object stream
