@@ -41,5 +41,5 @@ Skills
   * Russian (mother tongue), German (fluent), English (fluent), French (good)
 
 * IT & Software
-  * Python, MySQL, Flask, HTML/CSS, Keras, TensorFlow, Prolog, Ontology editor Protégé.
+  * Python, MySQL, Flask, Django, HTML/CSS, Keras, TensorFlow, Transformer, Prolog, Ontology editor Protégé.
   
