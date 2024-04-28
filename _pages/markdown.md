@@ -18,7 +18,7 @@ author_profile: true
 
 ## Thesis and internship supervision 
 
-- Sommer 2023: Internship supervision (co-supervisor) with the topic **"Annotation of semantic roles in French subcorpus of RRGparbank"**, intern: Alena Johnen.
+- Summer 2023: Internship supervision (co-supervisor) with the topic **"Annotation of semantic roles in French subcorpus of RRGparbank"**, intern: Alena Johnen.
 - Fall 2022: Internship supervision (co-supervisor) with the topic **"Annotation of semantic roles in Russian subcorpus of RRGparbank"**, intern: Anastasia Yablokova.
 - Spring 2021 (first supervisor): Bachelor thesis **"Transformers-based Supertagging Model for Statistical Parsing of Tree Wrapping Grammars"**, student: Svetlana Schmidt
 - Spring 2020 (co-supervisor): Bachelor thesis **"Architecture Evaluation for Performance Optimization of a Web-Based, Database-Supported Language Analysis Tool"**, student: Caner Türkmen .
