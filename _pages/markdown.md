@@ -10,10 +10,10 @@ author_profile: true
 - Fall 2022: **Discourse Representations** (with Dr. Kata Balogh, University of Düsseldorf)
 - Spring 2022: **Advanced NLP with Python** (with Dr. Kilian Evang, University of Düsseldorf)
 - Spring 2021: **Advanced NLP with Python** (with Esther Seyffarth and Dr. Rainer Osswald, University of Düsseldorf)
-- Spring 2020: **[Linguistic Resources](https://user.phil.hhu.de/bladier/linguistic_resources/)** (with Regina Stodden, University of Düsseldorf)
+- Spring 2020: **[Linguistic Resources](https://user.phil.hhu.de/bladier/linguistic_resources/){:target="_blank" rel="noopener"}** (with Regina Stodden, University of Düsseldorf)
 - Spring 2019: **Computational Semantics** (with Prof. Dr. Wiebke Petersen, University of Düsseldorf)
-- Fall 2018: **[Deep Learning for NLP](https://user.phil.hhu.de/bladier/deep_learning_nlp/)** (with Dr. Christian Wurm, University of Düsseldorf)
-- Spring 2018: **[Parsing Beyond CFG](https://user.phil.hhu.de/kallmeyer/teaching/parsing-beyond-cfg-sommer-2018/)** (with Prof. Dr. Laura Kallmeyer, University of Düsseldorf)
+- Fall 2018: **[Deep Learning for NLP](https://user.phil.hhu.de/bladier/deep_learning_nlp/){:target="_blank" rel="noopener"}** (with Dr. Christian Wurm, University of Düsseldorf)
+- Spring 2018: **[Parsing Beyond CFG](https://user.phil.hhu.de/kallmeyer/teaching/parsing-beyond-cfg-sommer-2018/){:target="_blank" rel="noopener"}** (with Prof. Dr. Laura Kallmeyer, University of Düsseldorf)
 - Fall 2017: **Discourse Representation Theory** (with Dr. Kata Balogh, University of Düsseldorf)
 
 ## Thesis and internship supervision 

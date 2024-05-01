@@ -9,9 +9,9 @@ redirect_from:
 ---
 
 
-I am a PhD Student  under supervision of [Prof. Dr. Laura Kallmeyer](https://user.phil.hhu.de/kallmeyer/) and [Prof. Dr. Wiebke Petersen](https://user.phil.hhu.de/~petersen/) at the University of Düsseldorf in Germany. In my dissertation project I develop a frame-semantic parser for English, French, German, and Russian based on [Role and Reference Grammar](https://rrg.caset.buffalo.edu/), Tree Rewriting Grammars and neural networks.
+I am a PhD Student  under supervision of [Prof. Dr. Laura Kallmeyer](https://user.phil.hhu.de/kallmeyer/){:target="_blank" rel="noopener"} and [Prof. Dr. Wiebke Petersen](https://user.phil.hhu.de/~petersen/){:target="_blank" rel="noopener"} at the University of Düsseldorf in Germany. In my dissertation project I develop a frame-semantic parser for English, French, German, and Russian based on [Role and Reference Grammar](https://rrg.caset.buffalo.edu/){:target="_blank" rel="noopener"}, Tree Rewriting Grammars and neural networks.
 
-My dissertation is part of the [TreeGraSP](https://treegrasp.phil.hhu.de) project at the University of Düsseldorf, Germany.
+My dissertation is part of the [TreeGraSP](https://treegrasp.phil.hhu.de){:target="_blank" rel="noopener"} project at the University of Düsseldorf, Germany.
 
 My research interests include
 ------

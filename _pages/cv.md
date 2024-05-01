@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-**[Curriculum Vitae Long Academic (pdf)](https://tatianabladier.github.io/files/Bladier_CV_long_academic.pdf)**<br />
+**[Curriculum Vitae Long Academic (pdf)](https://tatianabladier.github.io/files/Bladier_CV_long_academic.pdf){:target="_blank" rel="noopener"}**<br />
 
 Education
 ======
