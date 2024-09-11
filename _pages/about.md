@@ -27,6 +27,7 @@ My research interests include
 
 Short biography
 ------
+- from 2024 Postdoctoral Researcher at the Aix-Marseille University in France
 - 2017-2024 PhD in Computational Linguistics, University of Düsseldorf, Germany
 - 2012-2016 B.A. in Information Science and Language Technology, University of Düsseldorf, Germany
 - 2010-2013 M.A. in German Studies, University of Düsseldorf, Germany
