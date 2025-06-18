@@ -5,6 +5,13 @@ permalink: /publications/
 author_profile: true
 ---
 
+## 2024
+
+- [Frame-Semantic Parsing with Lexicalized Tree Rewriting Grammars](https://docserv.uni-duesseldorf.de/servlets/DerivateServlet/Derivate-72075/Bladier-2024-PhD-Thesis_PDFA_D61.pdf){:target="_blank" rel="noopener"}<br />
+Tatiana Bladier <br />
+PhD Thesis, Düsseldorf, 2024 <br />
+ 
+
 ## 2023
 
 - [Data-Driven Frame-Semantic Parsing with Tree Wrapping Grammar](https://aclanthology.org/2023.iwcs-1.22.pdf){:target="_blank" rel="noopener"}<br />
