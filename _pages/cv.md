@@ -9,19 +9,24 @@ redirect_from:
 
 {% include base_path %}
 
-**[Curriculum Vitae Long Academic (pdf)](https://tatianabladier.github.io/files/Bladier_CV_long_academic.pdf){:target="_blank" rel="noopener"}**<br />
+**[Curriculum Vitae Long Academic (pdf), update: 08/2024](https://tatianabladier.github.io/files/Bladier_CV_long_academic.pdf){:target="_blank" rel="noopener"}**<br />
 
 Education
 ======
 
+* 2024 PhD in Computational Linguistics, University of Düsseldorf, Germany
 * 2016 B.A. in Information Science and Language Technology, University of Düsseldorf, Germany
 * 2013 M.A. in German Studies, University of Düsseldorf, Germany
 * 2009 B.A. in German Studies, Southern Federal University Rostov on Don, Russia
 
 Work experience
 ======
+
+* 10/2024 – Postdoctoral Research Associate
+  * Aix-Marseille University, LIS – Laboratoire d’Informatique et Systèmes, Marseille, France
+
 * 06/2017 – 08/2024 Research Associate
-  * University of Düsseldorf, Department for Computational Linguistics
+  * University of Düsseldorf, Department for Computational Linguistics, Germany
 
 * 05/2013 – 09/2017 Research Assistant
   * Fraunhofer Institute for Environmental, Safety, and Energy Technology
