@@ -85,7 +85,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Dr. Tatiana Bladier"
+  name             : "Dr. Tatiana Bladier, PhD"
   avatar           : "TaniaBladier.jpg"
   bio              : "Postdoctoral computational linguist at the Aix-Marseille University in France"
   location         : "Marseille, France"
@@ -97,7 +97,8 @@ author:
   uri              :
   bitbucket        :
   codepen          :
-  dribbble         :
+  dribbble
+  dblp             : "https://dblp.org/pid/219/5669.html"
   flickr           :
   facebook         :
   foursquare       :
