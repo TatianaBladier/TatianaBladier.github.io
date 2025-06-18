@@ -8,6 +8,14 @@ author_profile: true
 
 ## Invited talks
 
+### 2025
+- [Guiding a Causal Language Model with an Incremental Parser]()<br />
+Research Seminar at the Heinrich Heine University Düsseldorf, Düsseldorf, Germany <br />
+
+### 2024
+- [Frame-Semantic Parsing with Lexicalized Tree Rewriting Grammars]()<br />
+Research Seminar at the Aix-Marseille University, Marseille, France <br />
+
 ### 2019
 
 - [Neural Semantic Role Labeling for French with LTAG Supertag Features]()<br />
