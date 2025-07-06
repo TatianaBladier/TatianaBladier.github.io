@@ -9,7 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-**[Curriculum Vitae Long Academic (pdf), update: 08/2024](https://tatianabladier.github.io/files/Bladier_CV_long_academic.pdf){:target="_blank" rel="noopener"}**<br />
+**[Curriculum Vitae Short in French (pdf), update: 07/2025](https://tatianabladier.github.io/files/NewCV_2025.pdf){:target="_blank" rel="noopener"}**<br />
+
+<!--**[Curriculum Vitae Long Academic (pdf), update: 08/2024](https://tatianabladier.github.io/files/Bladier_CV_long_academic.pdf){:target="_blank" rel="noopener"}**<br /> -->
 
 Education
 ======
