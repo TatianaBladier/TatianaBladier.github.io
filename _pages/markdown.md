@@ -18,6 +18,8 @@ author_profile: true
 
 ## Thesis and internship supervision 
 
+- Fall 2025: Internship supervision (co-supervisor) with the topic **"Developing a Metric for Evaluation of Automatically Generated Literary Texts"**, intern: Meriem Slimani.
+- Summer 2024: Internship supervision (co-supervisor) with the topic **"Training a GPT-2 Model for French with Syntactic Bias"**, intern: Yannick Brenning.
 - Summer 2023: Internship supervision (co-supervisor) with the topic **"Annotation of semantic roles in French subcorpus of RRGparbank"**, intern: Alena Johnen.
 - Fall 2022: Internship supervision (co-supervisor) with the topic **"Annotation of semantic roles in Russian subcorpus of RRGparbank"**, intern: Anastasia Yablokova.
 - Spring 2021 (first supervisor): Bachelor thesis **"Transformers-based Supertagging Model for Statistical Parsing of Tree Wrapping Grammars"**, student: Svetlana Schmidt
