@@ -6,26 +6,30 @@ author_profile: true
 ---
 
 
-## Invited talks
+## Talks and Posters
 
 ### 2025
+
+- [SyntaxGym for French: Assessing Syntactic Competence of French Language Models]() <br />
+COMPO Reading Group, Paris, France <br />
+
+- [SyntaxGym for French: Benchmark for Targeted Syntactic Evaluation of LLMs]() <br />
+JTT Colloquium, LIS Laboratoire d'Informatique et des Systèmes, Marseille, France <br />
+
+- [Syntactic Inductive Biases in Autoregressive Causal Language Models: Training and Evaluation ]()<br />
+COMPO Workshop, LIG Laboratoire d' Informatique de Grenoble, France <br />
+
+- [Introducing Syntactic Biasto Autoregressive Language Models]()<br />
+JTT Colloquium, LIS Laboratoire d'Informatique et des Syst`emes, Marseille, France <br />
+
 - [Guiding a Causal Language Model with an Incremental Parser]()<br />
 Research Seminar at the Heinrich Heine University Düsseldorf, Düsseldorf, Germany <br />
 
 ### 2024
+
 - [Frame-Semantic Parsing with Lexicalized Tree Rewriting Grammars]()<br />
 Research Seminar at the Aix-Marseille University, Marseille, France <br />
 
-### 2019
-
-- [Neural Semantic Role Labeling for French with LTAG Supertag Features]()<br />
-Research Seminar at the Paris Diderot University, Paris, France <br />
-- [Full neural graph-based LTAG parsing for French]() <br />
- Inria research centre Paris, France <br />
- - [Neural Semantic Role Labeling for French FrameNet With Deep Syntactic Information]() <br />
- Inria research centre Paris, France.
-
-## Further Posters and Talks
 
 ### 2023
 
@@ -86,8 +90,14 @@ David Arps, Tatiana Bladier, Jakub Waszczuk<br />
 TreeGraSP Workshop #4, Düsseldorf, Germany
 
 
-
 ### 2019
+
+- [Neural Semantic Role Labeling for French with LTAG Supertag Features]()<br />
+Research Seminar at the Paris Diderot University, Paris, France <br />
+- [Full neural graph-based LTAG parsing for French]() <br />
+ Inria research centre Paris, France <br />
+ - [Neural Semantic Role Labeling for French FrameNet With Deep Syntactic Information]() <br />
+ Inria research centre Paris, France.
 
 - [Creating RRG treebanks through semi-automatic conversion of annotated corpora](https://ubwp.buffalo.edu/rrg2019/wp-content/uploads/sites/101/2019/07/Bladier.pdf){:target="_blank" rel="noopener"} <br />
 Tatiana Bladier, Kilian Evang, Laura Kallmeyer, Robin Möllemann, and Rainer Osswald<br />
