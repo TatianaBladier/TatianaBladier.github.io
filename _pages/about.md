@@ -38,8 +38,8 @@ I work at the intersection of computational semantics, grammar formalisms, and n
 
 Academic Background
 ------
-- **2024–present** | Postdoctoral Researcher, Aix-Marseille University, France
-- **2017–2024** | PhD in Computational Linguistics, University of Düsseldorf, Germany
-- **2010–2013** | M.A. in German Studies, University of Düsseldorf, Germany (concurrent with B.A.)
-- **2012–2016** | B.A. in Information Science and Language Technology, University of Düsseldorf, Germany
-- **2004–2008** | B.A. in German Studies, Southern Federal University, Rostov-on-Don, Russia
+- **2024–present** Postdoctoral Researcher, Aix-Marseille University, France
+- **2017–2024** PhD in Computational Linguistics, University of Düsseldorf, Germany
+- **2010–2013** M.A. in German Studies, University of Düsseldorf, Germany (concurrent with B.A.)
+- **2012–2016** B.A. in Information Science and Language Technology, University of Düsseldorf, Germany
+- **2004–2008** B.A. in German Studies, Southern Federal University, Rostov-on-Don, Russia
