@@ -5,6 +5,11 @@ permalink: /publications/
 author_profile: true
 ---
 
+## 2025
+
+- Two papers submitted to major computational linguistics venues (2025, under review)
+
+
 ## 2024
 
 - [Frame-Semantic Parsing with Lexicalized Tree Rewriting Grammars](https://docserv.uni-duesseldorf.de/servlets/DerivateServlet/Derivate-72075/Bladier-2024-PhD-Thesis_PDFA_D61.pdf){:target="_blank" rel="noopener"}<br />
