@@ -1,15 +1,15 @@
 ---
 permalink: /
 title: "About me"
-excerpt: "About me"
+excerpt: "Postdoctoral researcher at Aix-Marseille University specializing in NLP, LLMs and low-resource language models."
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
+I am a Postdoctoral Researcher in Computational Linguistics at [Aix-Marseille University](https://www.univ-amu.fr/) [(LIS)](https://talep.lis-lab.fr/), specializing in the intersection of formal grammar and neural NLP. My work aims to make deep learning models more "linguistically aware" through structural inductive biases and compositional semantics.
 
-From October 2024, I am a postdoctoral computational linguist at the [Laboratoire d'Informatique et Systèmes (LIS)](https://talep.lis-lab.fr/) of [Aix-Marseille University](https://www.univ-amu.fr/) in Marseille, France. My research focuses on semantic parsing, compositional semantics, and developing neural approaches that integrate linguistic structure into natural language processing.
 
 Currently, I am working on the [COMPO project](https://anr.fr/Project-ANR-23-CE23-0031), which investigates inductive biases for compositionality-capable deep learning models of natural language, under the supervision of [Prof. Dr. Alexis Nasr](https://pageperso.lis-lab.fr/alexis.nasr/).
 
