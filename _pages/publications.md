@@ -5,9 +5,21 @@ permalink: /publications/
 author_profile: true
 ---
 
+
+## 2026
+
+- [SyntaxGym for French: Resource, Annotation, and Evaluation of French and Multilingual LLMs](https://lrec2026.info/list-of-accepted-papers/){:target="_blank" rel="noopener"}<br />
+Tatiana Bladier, H-J. Deulofeu, Alexis Nasr<br />
+Proceedings of the 15th Language Resources and Evaluation Conference LREC-COLING 2026
+
+- [SyntaxGym pour le français: Ressource, annotation et évaluation de modèles de langues français et multilingues](){:target="_blank" rel="noopener"}<br />
+Tatiana Bladier, H-J. Deulofeu, Alexis Nasr<br />
+Actes de la 33ème Conférence sur le Traitement Automatique des Langues Naturelles (CORIA-TALN 2026), Submitted
+
 ## 2025
 
-- Two papers submitted to major computational linguistics venues (2025, under review)
+A Journal Article (Title anonymized for review)<br />
+Under review at TACL
 
 
 ## 2024
