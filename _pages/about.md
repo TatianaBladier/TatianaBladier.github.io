@@ -18,13 +18,6 @@ Starting in **October 2026**, I will continue at Aix-Marseille University as a P
 I completed my PhD at the University of Düsseldorf in Germany (2017–2024) under the supervision of [Prof. Dr. Laura Kallmeyer](https://user.phil.hhu.de/kallmeyer/){:target="_blank" rel="noopener"} and [Prof. Dr. Wiebke Petersen](https://user.phil.hhu.de/~petersen/){:target="_blank" rel="noopener"}. My dissertation developed a frame-semantic parser for English, French, German, and Russian based on [Role and Reference Grammar](https://rrg.caset.buffalo.edu/){:target="_blank" rel="noopener"}, tree rewriting grammars, and neural networks. This work was part of the [TreeGraSP](https://treegrasp.phil.hhu.de){:target="_blank" rel="noopener"} project.
 
 
-News
----
-
-
-- **October 2026:** I will be joining **Aix-Marseille University** and **Assistance Publique - Hôpitaux de Marseille (APHM)** as a Postdoctoral Researcher in **Clinical Natural Language Processing and Artificial Intelligence**, working on the PARTAGES project.
-
-
 Research Interests
 ------
 
