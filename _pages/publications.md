@@ -8,7 +8,7 @@ author_profile: true
 
 ## 2026
 
-- [Constitution d’une nouvelle ressource pour mesurer les performances des modèles de langue dans l’analyse syntaxique du français](https://llcd2026.sciencesconf.org/){:target="_blank" rel="noopener"}<br />
+- [Constitution d’une nouvelle ressource pour mesurer les performances des modèles de langue dans l’analyse syntaxique du français](https://llcd2026.sciencesconf.org/){:target="_blank" rel="noopener"} (accepted) <br />
 Henri-José Deulofeu, André Valli, Tatiana Bladier, Alexis Nasr<br />
 La 3ème édition du colloque "Langues et langage à la croisée des disciplines" (LLcD 2026), Aix-en-Provence, France
 
