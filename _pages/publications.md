@@ -8,6 +8,10 @@ author_profile: true
 
 ## 2026
 
+- [Constitution d’une nouvelle ressource pour mesurer les performances des modèles de langue dans l’analyse syntaxique du français](https://llcd2026.sciencesconf.org/){:target="_blank" rel="noopener"}<br />
+Henri-José Deulofeu, André Valli, Tatiana Bladier, Alexis Nasr<br />
+La 3ème édition du colloque "Langues et langage à la croisée des disciplines" (LLcD 2026), Aix-en-Provence, France
+
 - [SyntaxGym for French: Resource, Annotation, and Evaluation of French and Multilingual LLMs](https://lrec2026.info/list-of-accepted-papers/){:target="_blank" rel="noopener"}<br />
 Tatiana Bladier, H-J. Deulofeu, Alexis Nasr<br />
 Proceedings of the 15th Language Resources and Evaluation Conference LREC 2026, Palma de Mallorca, Spain
